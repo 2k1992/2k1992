@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web / App Developer
 ------------------------
 
-I've been learning to code for 2 years, after switching careers. I have passion for Frontend development.
+I've been coding for 3 years. I have passion for Frontend development.
 
 * 🌍  I'm based in Ethiopia
 * 🖥️  See my portfolio at [Nahom Teferi](https://nahomteferi.netlify.app/)
